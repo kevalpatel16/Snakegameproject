@@ -1,9 +1,6 @@
 
 
-java -jar "SnakeGame.jar" 
 
-To distribute this project, zip up the dist folder (including the lib folder)
-and distribute the ZIP file.
 
 Notes:
 
